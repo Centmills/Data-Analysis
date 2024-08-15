@@ -16,7 +16,7 @@ SET termdate = FORMAT(CONVERT(DATETIME,LEFT(termdate, 19), 120), 'yyyy-MM-dd');
 ALTER TABLE hr_data
 ADD new_termdate DATE;
 
---convert time values from termdate to new_termdate
+--copy converted time values from termdate to new_termdate
 
 UPDATE hr_data
 SET new_termdate = CASE
