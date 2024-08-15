@@ -1,11 +1,13 @@
 # HR-Dashboard-SQL-PowerBI
 ![image](https://github.com/user-attachments/assets/a3ccd475-d5d2-4dd8-b88a-a7e04a4ca178)
-
+--------------------------------------------------------------------------------------------
 ![image](https://github.com/user-attachments/assets/9663c229-47a5-4ce6-8012-cec9f99d8282)
 
 # Data Used
 Data - HR Data with over 22000 rows from the year 2000 to 2020.
+
 Data Cleaning & Analysis - SQL Server 2019.
+
 Data Visualization - PowerBI.
 
 # Questions
