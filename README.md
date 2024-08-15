@@ -1,6 +1,6 @@
 # HR-Dashboard-SQL-PowerBI
 ![image](https://github.com/user-attachments/assets/a3ccd475-d5d2-4dd8-b88a-a7e04a4ca178)
---------------------------------------------------------------------------------------------
+
 ![image](https://github.com/user-attachments/assets/9663c229-47a5-4ce6-8012-cec9f99d8282)
 
 # Data Used
